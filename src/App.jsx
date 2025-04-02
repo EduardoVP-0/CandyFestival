@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 
 function App() {
 
-  //Flecha
+  //Flecha scroll
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
